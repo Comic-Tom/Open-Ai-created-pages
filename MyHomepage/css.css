@@ -1,0 +1,20 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.jumbotron {
+    text-align: center;
+	background-color: lightblue;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+	background-color: lightgrey;
+	padding: 20px;
+}
+
+.col-sm-4 {
+    padding: 20px;
+}
