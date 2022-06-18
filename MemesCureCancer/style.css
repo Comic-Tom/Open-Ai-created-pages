@@ -1,0 +1,23 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    text-align: justify;
+}
